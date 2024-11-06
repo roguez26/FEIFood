@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936905220373",
+    "project_id": "feifood-f6689",
+    "storage_bucket": "feifood-f6689.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936905220373:android:96449ae271cbeb13a4891c",
+        "android_client_info": {
+          "package_name": "com.feifood.feifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowEki9SwooHSgmEZyNL4Ki4ooUbslzvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
