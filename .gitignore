@@ -1,0 +1,47 @@
+# General
+.idea/
+*.iml
+.gradle/
+build/
+out/
+*.class
+*.log
+
+# Kotlin
+*.kt~
+*.kts~
+*.jar
+*.war
+*.ear
+
+# Firebase
+firebase-debug.log
+firebase-debug.log.*
+google-services.json
+*.keystore
+*.key
+
+# Android (si aplica)
+local.properties
+*.apk
+*.ap_
+captured_images/
+output.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración de herramientas específicas
+/.vscode/
+/*.env
+*.env.*
+.env.local
+.env.*
+
+# Otros
+**/secrets/**
+
+# Excluir claves API específicas y configuraciones privadas
+secret.properties
